@@ -1,0 +1,47 @@
+body { 
+  background-color: transparent;
+  background: url(##) no-repeat center center;
+  padding: 0% !important;
+  margin: 0%;
+  background-size: cover;
+}
+.wwd {
+  margin: 10px -1.5% 10px -1.5%;
+  background-color: #d9e6f2;
+}
+.main-margin {
+  margin: 5% 5% 2% 5%;
+  <!--padding: 50px 0px 0px 0px;-->
+  background-color: #a3a3c2;
+}
+
+.cheese {
+  padding: 10px 0px 20px 0px;
+}
+
+h1 {
+  color: black;
+  font-family: courier;
+  font-size: 4.5vw;
+}
+h2 {
+  color: black ;
+  font-family: courier;
+  font-size: 3vmax;
+}
+p {
+  color: black ;
+  font-family: courier;
+  font-size: 110%;
+}
+p.under {
+  color: black ;
+  font-family: courier;
+  font-size: 120%;
+}
+li {
+  text-align: left;
+}
+p3 {
+  padding-top: 50px;
+}
