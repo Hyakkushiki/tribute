@@ -5,19 +5,17 @@ body {
   font-size: 20px;
 }
 
-a, #texty {
-  color: white;
-  margin: 0;
-}
 
 #padSpace {
-  margin-top: 100px;
+  margin-top: 1000px;
 }
 
 .well, .jumbotron {
   background-color: #61616b;
 }
-
+#myNavbar {
+  left: 0;
+}
 #grad {
   /* dark blue-purple */
   background: #52527a;
@@ -32,15 +30,24 @@ a, #texty {
   /*Standard*/
 }
 
+.bg-0 {
+  background-color:   #f0f0f5;
+}
+.bg-1 {
+  background-color: #52527a;
+}
+.bg-2 {
+  background-color: #7a525c;
+}
 
 /*
   bbackground: -moz-linear-gradient(
-		center top,
-		#646262 0%,
-		#484848 50%,
-		#3D3D3D 50%,
-		#4C4C4C 100%
-	);
+    center top,
+    #646262 0%,
+    #484848 50%,
+    #3D3D3D 50%,
+    #4C4C4C 100%
+  );
   */
 
 
