@@ -1,0 +1,60 @@
+body {
+  margin-top: 0;
+  padding: 0;
+  font-family: 'Lato', serif;
+  font-size: 20px;
+}
+
+
+#padSpace {
+  margin-top: 1000px;
+}
+
+.well, .jumbotron {
+  background-color: #61616b;
+}
+#myNavbar {
+  left: 0;
+}
+#grad {
+  /* dark blue-purple */
+  background: #52527a;
+  /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, rgba(122, 92, 82, 0.6), rgba(82, 82, 122, 0.9));
+  /*Safari 5.1-6*/
+  bbackground: -o-linear-gradient(right, rgba(122, 92, 82, 0.6), rgba(82, 82, 122, 0.9));
+  /*Opera 11.1-12*/
+  background: -moz-linear-gradient(left, rgba(122, 92, 82, 0.6), rgba(82, 82, 122, 0.9));
+  /*Fx 3.6-15*/
+  bbackground: linear-gradient(to right, rgba(122, 92, 82, 0.6), rgba(82, 82, 122, 0.9));
+  /*Standard*/
+}
+
+.bg-0 {
+  background-color:   #f0f0f5;
+}
+.bg-1 {
+  background-color: #52527a;
+}
+.bg-2 {
+  background-color: #7a525c;
+}
+
+/*
+  bbackground: -moz-linear-gradient(
+    center top,
+    #646262 0%,
+    #484848 50%,
+    #3D3D3D 50%,
+    #4C4C4C 100%
+  );
+  */
+
+
+/*
+  #element-with-background-image {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+        url('//example.com/image.jpg');
+}
+  */
